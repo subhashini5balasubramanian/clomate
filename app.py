@@ -162,7 +162,7 @@ def dashboard_page():
         st.write("👨‍💻 *Credits:* Developed by [Your Name]")
 
 # --- Run the App ---
-if _name_ == "_main_":
+if __name__ == "_main_":
     if st.session_state.page == "login":
         login_page()
     elif st.session_state.page == "role_selection":

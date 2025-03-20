@@ -1,4 +1,4 @@
-#CloMate - Smart Cloud Cost & Usage Optimization ☁
+# CloMate - Smart Cloud Cost & Usage Optimization ☁
 
 ## About CloMate
 

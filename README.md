@@ -47,7 +47,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-🏗 Future Enhancements
+## Future Enhancements
 
 AI-powered cost prediction & anomaly detection
 
@@ -55,3 +55,6 @@ Multi-cloud support (AWS, GCP, Azure)
 
 Automated cloud scaling suggestions
 
+## conclusion
+
+This is Just MVP

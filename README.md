@@ -57,6 +57,6 @@ Automated cloud scaling suggestions
 
 Train real-time data
 
-## conclusion
+## Conclusion
 
 This is Just MVP

@@ -55,6 +55,8 @@ Multi-cloud support (AWS, GCP, Azure)
 
 Automated cloud scaling suggestions
 
+Train real-time data
+
 ## conclusion
 
 This is Just MVP
